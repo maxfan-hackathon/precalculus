@@ -9,5 +9,10 @@ student_data
 
 x = student_data.hours
 y = student_data.test_results
+model=np.polyfit(x,y,1)
+print("model is:",model)
+predict = np.poly1d(model)
+hours_studied=20
+print("prediction is: ", predict(hours_studied))
 plt.scatter(x,y)
 plt.show()
