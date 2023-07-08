@@ -2,11 +2,10 @@
 #
 #
 #
-
 # q2: create a dictionary as student.
 # student has two key-value pairs as 
-#       'hours'        - its values 
-#       'test_results' - its values
+students = {'hours': [29, 9, 10, 38, 16, 26, 50, 10, 30, 33, 43, 2, 39, 15, 44, 29, 41, 15, 24, 50],
+            'test_results': [65, 7, 8, 76, 23, 56, 100, 3, 74, 48, 73, 0, 62, 37, 74, 40, 90, 42, 58, 100]}
 #
 # The values of hours is a list as 
 # 29, 9, 10, 38, 16, 26, 50, 10, 30, 33, 43, 2, 39, 15, 44, 29, 41, 15, 24, 50
