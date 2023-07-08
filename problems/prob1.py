@@ -1,7 +1,16 @@
 # q1: import three libraries including numpy, pandas and matplotlib.pyplot
-#
-#
-#
+
+
+
+
+# all answers are in linear_regression.py
+import numpy as np
+import pandas as pd
+import matplotlib.nyplot as plt
+
+
+
+
 # q2: create a dictionary as student.
 # student has two key-value pairs as 
 students = {'hours': [29, 9, 10, 38, 16, 26, 50, 10, 30, 33, 43, 2, 39, 15, 44, 29, 41, 15, 24, 50],
