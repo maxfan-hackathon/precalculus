@@ -6,7 +6,7 @@
 # all answers are in linear_regression.py
 import numpy as np
 import pandas as pd
-import matplotlib.nyplot as plt
+import matplotlib.pyplot as plt
 
 
 
